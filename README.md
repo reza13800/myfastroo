@@ -1,0 +1,2 @@
+# myfastroo
+my.bot
